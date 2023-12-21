@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RockPaper": {
+      "commandName": "Project",
+      "commandLineArgs": "STONE SPOCK PAPER LIZARD SCISSORS"
+    }
+  }
+}
